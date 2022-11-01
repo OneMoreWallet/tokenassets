@@ -1,0 +1,5 @@
+{
+    "name": "USDT",
+    "pname": "Tether",
+    "about": "USDT是Tether公司推出的基于稳定价值货币美元(USD）的代币 Tether USD （下称USDT)，1USDT=1美元，用户可以随时使用USDT与USD进行1:1兑换。Tether公司严格遵守1:1准备金保证，即每发行1个 USDT代币，其银行账户都会有1美元的资金保障。用户可以在Tether平台进行资金查询，以保障透明度。用户可以通过SWIFT电汇美元至Tether公司提供的银行帐户，或通过交易所换取USDT；赎回美元时，反向操作即可。用户也可在交易平台用比特币换取USDT。"
+}

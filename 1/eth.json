@@ -1,0 +1,6 @@
+{
+    "name":"ETH",
+    "pname":"Ethereum",
+    "about":"以太坊（英语：Ethereum）是一个开源的有智能合约功能的公共区块链平台。通过其专用加密货币以太币 （Ether，又称“以太币”）提供去中心化的虚拟机（称为“以太虛拟机”Ethereum Virtual Machine） 来处理点对点合约。以太坊的概念首次在2013至2014年间由程序员维塔利克•布特林受比特币启发后提出，大意为“下一代加密货币与去中心化应用平台”，在2014年透过ICO众筹得以开始发展。截至2018年6月，以大币是市值第二高的加密货币，以太坊亦被称为“第二代的区块链平台”，仅次于比特币。",
+    "abount_en":"Ethereum (English: Ethereum) is an open source public blockchain platform with smart contract capabilities. Provides a decentralized virtual machine (called the Ethereum Virtual Machine) to process peer-to-peer contracts through its dedicated cryptocurrency, Ether (also known as \"Ether\").The concept of Ethereum was first proposed by programmer Vitalik Buterin after being inspired by Bitcoin between 2013 and 2014, to the effect of \"the next generation of cryptocurrency and decentralized application platform\", and was crowdfunded through ICO in 2014. to start developing.As of June 2018, Ethereum is the second most valuable cryptocurrency by market capitalization, and Ethereum is also known as the \"second-generation blockchain platform\", second only to Bitcoin."
+}
